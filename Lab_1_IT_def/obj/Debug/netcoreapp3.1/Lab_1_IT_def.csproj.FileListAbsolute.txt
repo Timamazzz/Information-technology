@@ -1,0 +1,13 @@
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\bin\Debug\netcoreapp3.1\Lab_1_IT_def.exe
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\bin\Debug\netcoreapp3.1\Lab_1_IT_def.deps.json
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\bin\Debug\netcoreapp3.1\Lab_1_IT_def.runtimeconfig.json
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\bin\Debug\netcoreapp3.1\Lab_1_IT_def.runtimeconfig.dev.json
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\bin\Debug\netcoreapp3.1\Lab_1_IT_def.dll
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\bin\Debug\netcoreapp3.1\Lab_1_IT_def.pdb
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\obj\Debug\netcoreapp3.1\Lab_1_IT_def.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\obj\Debug\netcoreapp3.1\Lab_1_IT_def.AssemblyInfoInputs.cache
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\obj\Debug\netcoreapp3.1\Lab_1_IT_def.AssemblyInfo.cs
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\obj\Debug\netcoreapp3.1\Lab_1_IT_def.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\obj\Debug\netcoreapp3.1\Lab_1_IT_def.dll
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\obj\Debug\netcoreapp3.1\Lab_1_IT_def.pdb
+C:\Users\Artem-HOME\source\repos\Lab_1_IT_def\obj\Debug\netcoreapp3.1\Lab_1_IT_def.genruntimeconfig.cache
