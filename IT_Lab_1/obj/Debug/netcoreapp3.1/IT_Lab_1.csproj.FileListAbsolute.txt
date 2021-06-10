@@ -1,0 +1,13 @@
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\obj\Debug\netcoreapp3.1\IT_Lab_1.AssemblyInfoInputs.cache
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\obj\Debug\netcoreapp3.1\IT_Lab_1.AssemblyInfo.cs
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\obj\Debug\netcoreapp3.1\IT_Lab_1.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\bin\Debug\netcoreapp3.1\IT_Lab_1.exe
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\bin\Debug\netcoreapp3.1\IT_Lab_1.deps.json
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\bin\Debug\netcoreapp3.1\IT_Lab_1.runtimeconfig.json
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\bin\Debug\netcoreapp3.1\IT_Lab_1.runtimeconfig.dev.json
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\bin\Debug\netcoreapp3.1\IT_Lab_1.dll
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\bin\Debug\netcoreapp3.1\IT_Lab_1.pdb
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\obj\Debug\netcoreapp3.1\IT_Lab_1.dll
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\obj\Debug\netcoreapp3.1\IT_Lab_1.pdb
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\obj\Debug\netcoreapp3.1\IT_Lab_1.genruntimeconfig.cache
+C:\Users\Artem-HOME\source\repos\IT_Lab_1\obj\Debug\netcoreapp3.1\IT_Lab_1.csprojAssemblyReference.cache

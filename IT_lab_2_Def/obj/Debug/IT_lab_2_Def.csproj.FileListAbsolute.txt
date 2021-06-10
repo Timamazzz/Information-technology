@@ -1,0 +1,12 @@
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\bin\Debug\Book_shop.mdf
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\bin\Debug\Book_shop_log.ldf
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\bin\Debug\IT_lab_2_Def.exe.config
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\bin\Debug\IT_lab_2_Def.exe
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\bin\Debug\IT_lab_2_Def.pdb
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\obj\Debug\IT_lab_2_Def.csprojAssemblyReference.cache
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\obj\Debug\IT_lab_2_Def.Form1.resources
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\obj\Debug\IT_lab_2_Def.Properties.Resources.resources
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\obj\Debug\IT_lab_2_Def.csproj.GenerateResource.cache
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\obj\Debug\IT_lab_2_Def.csproj.CoreCompileInputs.cache
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\obj\Debug\IT_lab_2_Def.exe
+C:\Users\Artem-HOME\source\repos\IT_lab_2_Def\obj\Debug\IT_lab_2_Def.pdb
