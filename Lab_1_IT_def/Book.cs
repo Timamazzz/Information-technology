@@ -11,6 +11,7 @@ namespace Lab_1_IT_def
         public int year;
         public int copies;
         public int genreid;
+        private int price;
 
         string[] genre = {"Сказка", "Художественная литература", "Научная литература", "Фентези", "Триллер", "История", "Фантастика"};
 
